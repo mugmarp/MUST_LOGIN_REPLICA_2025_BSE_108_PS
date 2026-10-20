@@ -468,9 +468,10 @@ a:hover {
   .brand {
     gap: var(--space-4);
     padding: var(--space-5);
-    flex-direction: row;
-    align-items: center;
-    flex-wrap: wrap;
+    /* stack the crest above the name. putting them side by side squeezes
+       the name into a column too narrow to wrap cleanly. */
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .brand__crest {
