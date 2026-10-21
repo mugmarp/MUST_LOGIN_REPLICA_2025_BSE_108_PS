@@ -1,3 +1,26 @@
+/* Colors used:
+   #1f2260  deep indigo (brand panel background)
+   #2e3192  indigo (primary buttons, links, focus)
+   #23266f  indigo dark (button hover)
+   #ffd543  gold (brand accents)
+   #1c1e3a  ink (body text)
+   #5a5d8a  muted (secondary text, borders)
+   #f7f8fd  panel (page background)
+   #ffffff  white (card surface, crest background)
+   #d5d8ec  line (borders)
+   #b3261e  error (required asterisk)
+   #9a9dc4  placeholder text
+
+   Shadows:
+   rgba(0,0,0,.2)           crest drop shadow
+   rgba(31,34,96,.12)       card shadow
+   rgba(46,49,146,.15)      input focus ring
+   rgba(46,49,146,.08)      pill-link background
+   rgba(46,49,146,.2)       pill-link border
+   rgba(46,49,146,.12)      pill-link hover background
+   rgba(255,213,67,.4)      brand portal border
+*/
+
 * { box-sizing: border-box; }
 
 html { font-size: 16px; height: 100%; }
