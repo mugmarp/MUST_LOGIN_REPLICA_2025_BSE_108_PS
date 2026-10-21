@@ -42,6 +42,7 @@ body {
   color: #1c1e3a;
   font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
   line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
 
 h1,
