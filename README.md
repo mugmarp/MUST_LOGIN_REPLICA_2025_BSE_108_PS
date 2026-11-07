@@ -9,7 +9,7 @@
 **Registration Number:** 2025/BSE/108/PS  
 **Faculty:** Faculty of Computing and Informatics  
 
-**Assignment:** Practical Home Exercise — UI/UX Redesign of MUST Application System
+**Assignment:** Practical Home Exercise — Replica of MUST Application System web pages.
 
 ---
 
